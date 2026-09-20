@@ -4,6 +4,8 @@
   <i>React + TypeScript + Vite + shadcn/ui</i>
 </p>
 
+## **Screenshots**
+
 <a href="https://ph-fp-a2-movie-explorer-shadcn.vercel.app" target="_blank">
   <p align="center">
     <img src="./public/ss.png" alt="Jarvis" width="90%" />
@@ -16,7 +18,7 @@
   </p>
 </a>
 
-# Links
+## **Links**
 
 <a href="https://ph-fp-a2-movie-explorer-shadcn.vercel.app" target="_blank">
   Live Link 🚀

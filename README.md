@@ -1,21 +1,25 @@
-# React + TypeScript + Vite + shadcn/ui
+<a href="https://ph-fp-a2-movie-explorer-shadcn.vercel.app/">
+  <p align="center">
+    <img src="./public/ss.png" alt="Jarvis" width="80%" />
+  </p>
+</a>
 
-This is a template for a new Vite project with React, TypeScript, and shadcn/ui.
+<h1 align="center">Movie Explorer</h1>
 
-## Adding components
+<p align="center">
+  <i>React + TypeScript + Vite + shadcn/ui</i>
+</p>
 
-To add components to your app, run the following command:
+---
 
-```bash
-npx shadcn@latest add button
-```
+# Links
 
-This will place the ui components in the `src/components` directory.
+- [Live Link 🚀](https://ph-fp-a2-movie-explorer-shadcn.vercel.app)
 
-## Using components
+---
 
-To use the components in your app, import them as follows:
-
-```tsx
-import { Button } from "@/components/ui/button"
-```
+<a href="https://ph-fp-a2-movie-explorer-shadcn.vercel.app/shows">
+  <p align="center">
+    <img src="./public/ss2.png" alt="Jarvis" width="80%" />
+  </p>
+</a>

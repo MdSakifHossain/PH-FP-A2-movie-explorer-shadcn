@@ -10,13 +10,9 @@
   <i>React + TypeScript + Vite + shadcn/ui</i>
 </p>
 
----
-
 # Links
 
 - [Live Link 🚀](https://ph-fp-a2-movie-explorer-shadcn.vercel.app)
-
----
 
 <a href="https://ph-fp-a2-movie-explorer-shadcn.vercel.app/shows">
   <p align="center">
